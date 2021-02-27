@@ -15,6 +15,9 @@
 ### Pytorch
 - [テーブルデータに使えるNNモデルの備忘録（PyTorch）](https://qiita.com/hirune924/items/82fccd08865f7467339d)
 
+## Pandas
+- [grooupbyの使い方](https://qiita.com/propella/items/a9a32b878c77222630ae)
+
 
 ## 特徴量エンジニアリング
 - [特徴量エンジニアリングのライブラリ xfeat を使ってみて便利だったこと](https://acro-engineer.hatenablog.com/entry/2020/12/15/120000#6-Aggregation-%E3%81%8C%E7%B0%A1%E5%8D%98%E3%81%AB%E3%81%A7%E3%81%8D%E3%82%8B)
