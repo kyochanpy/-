@@ -1,6 +1,13 @@
 # 目的
 見返したくなったときに、すぐ見つけられるように記録しておく。
 
+##コンペホーム
+- [Kaggle](https://www.kaggle.com/)
+- [ぐるぐる](https://www.guruguru.science/competitions)
+- [SIGNATE](https://signate.jp/)
+- [Solafune](https://solafune.com/#/)
+- [ProbSpace](https://prob.space/)
+
 ## GBDT
 
 ### LightGBM
