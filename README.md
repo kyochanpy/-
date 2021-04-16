@@ -34,6 +34,7 @@
 
 ## colab
 - [kaggle datasetとcolab](https://qiita.com/fam_taro/items/eb9bae0b82248f9abd28)
+- [タイムアウト対策](https://stackoverflow.com/questions/57113226/how-to-prevent-google-colab-from-disconnecting)
 
 
 ## コンペ
