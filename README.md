@@ -22,6 +22,9 @@
 ### Pytorch
 - [テーブルデータに使えるNNモデルの備忘録（PyTorch）](https://qiita.com/hirune924/items/82fccd08865f7467339d)
 
+## scikit-learn
+- [scikit-learn](https://scikit-learn.org/stable/index.html)
+
 ## Pandas
 - [pandasチートシート](https://qiita.com/tanemaki/items/2ed05e258ef4c9e6caac)
 - [grooupbyの使い方](https://qiita.com/propella/items/a9a32b878c77222630ae)
